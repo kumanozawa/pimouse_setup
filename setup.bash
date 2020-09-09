@@ -1,4 +1,5 @@
 #!/bin/bash -xve
+#Witten by kumazawa
 
 exec 2> /tmp/setup.log
 
